@@ -16,4 +16,4 @@ Algorithms used:
 * Adaptive Boosting (AdaBoost) Algorithm
 * Extreme Gradient Boosting (XGBoost) Algorithm
 
-* Please do ⭐ the repository, if it helped you in anyway.
+Please do ⭐ the repository, if it helped you in anyway.
